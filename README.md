@@ -2,7 +2,7 @@
 
 ## 📘 Description
 
-**Mini-AddU-SIS** is a lightweight, front-end-based **Student Information System (SIS)** designed for academic institutions like **Ateneo de Davao University (AddU)**. The system provides essential functionality for both students and teachers — allowing students to view their grades and teachers to manage and encode grades through a simple, user-friendly interface.
+**Mini-AddU-SIS** is a lightweight, front-end-based **Student Information System (SIS)** designed for academic institutions like **Ateneo de Davao University (AdDU)**. The system provides essential functionality for both students and teachers — allowing students to view their grades and teachers to manage and encode grades through a simple, user-friendly interface.
 
 This project is ideal for demonstrating basic web development, HTML structure, form controls, and mock data display for educational purposes.
 
